@@ -1,0 +1,19 @@
+{
+  "task_1": {
+    "source_image": "images/stul.png",
+    "result_image": "images/task_1.png",
+    "threshold": 100
+  },
+  "task_2": {
+    "source_image": "images/spichki.png",
+    "result_image": "images/task_2.png",
+    "params": {
+      "canny": {
+        "sigma": 3.5,
+        "low_threshold": 0.01,
+        "high_threshold": 0.42
+      },
+      "binary_closing_footprint_width": 10
+    }
+  }
+}

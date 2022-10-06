@@ -15,5 +15,10 @@
       },
       "binary_closing_footprint_width": 10
     }
+  },
+  "task_3": {
+    "source_image_file_first": "images/box_1.png",
+    "source_image_file_second": "images/box_2.png",
+    "result_image": "images/task_3_result.png"
   }
 }
